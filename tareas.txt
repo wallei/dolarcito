@@ -1,0 +1,2 @@
+1 - Hacer Login con gmail + Dedo o Selfie
+2 - Importar API Dolar
